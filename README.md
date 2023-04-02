@@ -1,1 +1,1 @@
-# .github
+# For team Early Bird
