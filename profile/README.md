@@ -3,6 +3,9 @@
 - We are members of [RareTECH\(レアテック\)](https://raretech.site/).
 - We are collaborating.
 
+![logo](https://github.com/Team-Early-Bird/.github/blob/main/images/%E3%81%A8%E3%82%8A%E3%83%95%E3%82%99%E3%83%AB%E3%83%BC.jpeg)
+
+
 <!--
 
 **Here are some ideas to get you started:**
